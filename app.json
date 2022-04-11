@@ -10,8 +10,7 @@
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
-        }
-    },
+        },
     
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
@@ -22,7 +21,8 @@
       "description": "Get this value from my.telegram.org.",
       "required": true,
       "value": ""
-    },
+    }
+        }
     "addons": [],
     "buildpacks": [
         {
